@@ -12,5 +12,6 @@ public class DockerHelloWorld {
 	public String getName() {
 		
 		return "Welcome to deployment in docker";
+		echo "This is my firest program Ankur kumawat"
 	}
 }
